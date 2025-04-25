@@ -1,4 +1,4 @@
-# Reddit-Clone-Script
+# Reddit Clone Script
 
 ReadX is a next-generation community PHP script that allows users to create and participate in topic-based communities. It offers a complete set of social features including post voting, comments, user karma system, achievements, avatar creator/market and more.
 
