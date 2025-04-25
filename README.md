@@ -32,8 +32,12 @@ Similar to the popular platform Reddit, ReadX provides a familiar experience wit
 
 ## 📸 Screenshot
 
+![ReadX Preview](https://codesy.net/files/items/zopnel5akbzy/3cKmCPZOtdK7IhY_1745620978.webp)
 ![ReadX Preview](https://codesy.net/files/items/zopnel5akbzy/gKU20dbpmUJdy0o_1745620979.webp)
-(https://codesy.net/files/items/zopnel5akbzy/I9nvJ3hyPQPuMdl_1745620982.webp)
+![ReadX Preview](https://codesy.net/files/items/zopnel5akbzy/I9nvJ3hyPQPuMdl_1745620982.webp)
+![ReadX Preview](https://codesy.net/files/items/zopnel5akbzy/I9nvJ3hyPQPuMdl_1745620982.webp)
+![ReadX Preview](https://codesy.net/files/items/zopnel5akbzy/V16dGEkCoDaMu8F_1745620985.webp)
+![ReadX Preview](https://codesy.net/files/items/zopnel5akbzy/a9KQTsuoy5dYwk3_1745620990.webp)
 
 ---
 
